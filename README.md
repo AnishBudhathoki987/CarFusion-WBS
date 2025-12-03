@@ -1,1 +1,1 @@
-This repository contains the Work Breakdown Structure (WBS)
+This repository contains the Work Breakdown Structure (WBS).
